@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: YOURLS XML Sitemap Generator
-Plugin URI: https://github.com/yourls/yourls
+Plugin URI: https://github.com/SophiaAtkinson/yourls-html-sitemap
 Description: Generates a sitemap.xml file with all of your short URLs
 Version: 1.0
 Author: Sophia Atkinson
